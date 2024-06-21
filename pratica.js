@@ -1,1 +1,2 @@
-[NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+console.log('Bem Vindo(a) ao curso da Cubo Academy')
+console.log ('Eu transformo a realidade por meio da tecnologia')
